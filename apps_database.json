@@ -1,0 +1,202 @@
+{
+  "applications": {
+    "office": {
+      "word": {
+        "name": "Microsoft Word",
+        "path": "winword.exe",
+        "start_command": "start winword",
+        "display_name": "Word 2016",
+        "category": "office"
+      },
+      "excel": {
+        "name": "Microsoft Excel", 
+        "path": "excel.exe",
+        "start_command": "start excel",
+        "display_name": "Excel 2016",
+        "category": "office"
+      },
+      "powerpoint": {
+        "name": "Microsoft PowerPoint",
+        "path": "powerpnt.exe", 
+        "start_command": "start powerpnt",
+        "display_name": "PowerPoint 2016",
+        "category": "office"
+      },
+      "outlook": {
+        "name": "Microsoft Outlook",
+        "path": "outlook.exe",
+        "start_command": "start outlook", 
+        "display_name": "Outlook 2016",
+        "category": "office"
+      },
+      "onenote": {
+        "name": "Microsoft OneNote",
+        "path": "onenote.exe",
+        "start_command": "start onenote",
+        "display_name": "OneNote 2016", 
+        "category": "office"
+      }
+    },
+    
+    "browsers": {
+      "chrome": {
+        "name": "Google Chrome",
+        "path": "chrome.exe",
+        "start_command": "start chrome",
+        "display_name": "Google Chrome",
+        "category": "browser"
+      },
+      "edge": {
+        "name": "Microsoft Edge",
+        "path": "msedge.exe",
+        "start_command": "start msedge", 
+        "display_name": "Microsoft Edge",
+        "category": "browser"
+      },
+      "firefox": {
+        "name": "Mozilla Firefox",
+        "path": "firefox.exe",
+        "start_command": "start firefox",
+        "display_name": "Firefox",
+        "category": "browser"
+      }
+    },
+    
+    "development": {
+      "vscode": {
+        "name": "Visual Studio Code",
+        "path": "Code.exe",
+        "start_command": "start code",
+        "display_name": "Visual Studio Code",
+        "category": "development"
+      },
+      "python": {
+        "name": "Python",
+        "path": "python.exe",
+        "start_command": "start python",
+        "display_name": "Python 3.10",
+        "category": "development"
+      },
+      "nodejs": {
+        "name": "Node.js",
+        "path": "node.exe",
+        "start_command": "start node",
+        "display_name": "Node.js",
+        "category": "development"
+      },
+      "mysql": {
+        "name": "MySQL Workbench",
+        "path": "MySQLWorkbench.exe",
+        "start_command": "start mysqlworkbench",
+        "display_name": "MySQL Workbench 8.0 CE",
+        "category": "development"
+      }
+    },
+    
+    "media": {
+      "vlc": {
+        "name": "VLC Media Player",
+        "path": "vlc.exe",
+        "start_command": "start vlc",
+        "display_name": "VLC media player",
+        "category": "media"
+      },
+      "photos": {
+        "name": "Photos",
+        "path": "Microsoft.Photos.exe",
+        "start_command": "start ms-photos:",
+        "display_name": "Photos",
+        "category": "media"
+      }
+    },
+    
+    "system": {
+      "notepad": {
+        "name": "Notepad",
+        "path": "notepad.exe",
+        "start_command": "start notepad",
+        "display_name": "Notepad",
+        "category": "system"
+      },
+      "calculator": {
+        "name": "Calculator", 
+        "path": "calc.exe",
+        "start_command": "start calc",
+        "display_name": "Calculator",
+        "category": "system"
+      },
+      "paint": {
+        "name": "Paint",
+        "path": "mspaint.exe",
+        "start_command": "start mspaint",
+        "display_name": "Paint",
+        "category": "system"
+      },
+      "cmd": {
+        "name": "Command Prompt",
+        "path": "cmd.exe",
+        "start_command": "start cmd",
+        "display_name": "Command Prompt",
+        "category": "system"
+      },
+      "powershell": {
+        "name": "PowerShell",
+        "path": "powershell.exe",
+        "start_command": "start powershell",
+        "display_name": "Windows PowerShell",
+        "category": "system"
+      }
+    },
+    
+    "communication": {
+      "teams": {
+        "name": "Microsoft Teams",
+        "path": "Teams.exe",
+        "start_command": "start teams",
+        "display_name": "Microsoft Teams",
+        "category": "communication"
+      },
+      "whatsapp": {
+        "name": "WhatsApp",
+        "path": "WhatsApp.exe",
+        "start_command": "start whatsapp",
+        "display_name": "WhatsApp",
+        "category": "communication"
+      },
+      "skype": {
+        "name": "Skype for Business",
+        "path": "lync.exe",
+        "start_command": "start lync",
+        "display_name": "Skype for Business 2016",
+        "category": "communication"
+      }
+    }
+  },
+  
+  "commands": {
+    "open": "start",
+    "close": "taskkill /IM",
+    "close_force": "taskkill /F /IM"
+  },
+  
+  "user_friendly_names": {
+    "word": "Microsoft Word",
+    "excel": "Microsoft Excel", 
+    "powerpoint": "Microsoft PowerPoint",
+    "outlook": "Microsoft Outlook",
+    "chrome": "Google Chrome",
+    "edge": "Microsoft Edge",
+    "vscode": "Visual Studio Code",
+    "notepad": "Notepad",
+    "calculator": "Calculator",
+    "paint": "Paint",
+    "teams": "Microsoft Teams",
+    "whatsapp": "WhatsApp",
+    "vlc": "VLC Media Player",
+    "python": "Python",
+    "nodejs": "Node.js",
+    "mysql": "MySQL Workbench",
+    "cmd": "Command Prompt",
+    "powershell": "PowerShell"
+  }
+}

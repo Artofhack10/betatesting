@@ -1,0 +1,145 @@
+{
+  "system_control_master_checklist": {
+    "system_core": {
+      "cpu": {
+        "cpu_usage": true,
+        "cpu_health_verdict": true,
+        "cpu_core_wise_usage": true,
+        "top_cpu_processes": true
+      },
+      "memory": {
+        "ram_usage": true,
+        "ram_health_verdict": true,
+        "top_ram_processes": true
+      },
+      "disk": {
+        "disk_usage_overall": true,
+        "disk_health_verdict": true,
+        "per_drive_usage": true,
+        "disk_free_space_alert": true
+      },
+      "system_info": {
+        "os_info": true,
+        "architecture": true,
+        "hostname": true,
+        "uptime": true,
+        "python_runtime": true
+      }
+    },
+
+    "file_system_control": {
+      "drive_navigation": {
+        "open_drive": true,
+        "list_drive_content": true
+      },
+      "folder_file_navigation": {
+        "open_folder_by_number": true,
+        "open_file_by_number": true,
+        "back_navigation": true
+      },
+      "search": {
+        "global_file_search": true,
+        "global_folder_search": true,
+        "parallel_results": true,
+        "search_animation": true,
+        "open_search_result_by_number": true
+      },
+      "file_folder_info": {
+        "folder_info": true,
+        "file_info": true
+      },
+      "file_operations": {
+        "delete_file_safe": true,
+        "rename_file_folder": true,
+        "copy_move_file_folder": true
+      }
+    },
+
+    "network_control": {
+      "basic_status": {
+        "internet_status": true,
+        "network_status": true
+      },
+      "interfaces": {
+        "list_interfaces": true,
+        "active_adapter": true
+      },
+      "ip_management": {
+        "local_ip_config": true,
+        "public_ip": true
+      },
+      "diagnostics": {
+        "ping_test": true,
+        "packet_loss_check": true,
+        "dns_check": true,
+        "gateway_reachability": true
+      },
+      "network_health": {
+        "network_health_summary": true
+      }
+    },
+
+    "audio_volume_control": {
+      "volume_status": true,
+      "set_volume": true,
+      "volume_up": true,
+      "volume_down": true,
+      "mute": true,
+      "unmute": true,
+      "active_output_device": true
+    },
+
+    "process_application_control": {
+      "process_management": {
+        "list_processes": true,
+        "process_info": true,
+        "kill_process": true
+      },
+      "application_control": {
+        "open_application": false,
+        "close_application": false
+      }
+    },
+
+    "power_os_control": {
+      "power_actions": {
+        "shutdown": true,
+        "restart": true,
+        "sleep": true,
+        "lock_system": true,
+        "logoff": true
+      }
+    },
+
+    "safety_layer": {
+      "confirmation_system": {
+        "confirm_destructive_actions": true
+      },
+      "protected_paths": {
+        "block_system_paths": false
+      }
+    },
+
+    "meta_controls": {
+      "help_system": true,
+      "command_history": true,
+      "last_command": true,
+      "repeat_command": true,
+      "clear_context": true
+    },
+
+    "analytics_and_monitoring": {
+      "system_summary_single_command": false,
+      "threshold_alerts": {
+        "cpu_threshold": false,
+        "ram_threshold": false,
+        "disk_threshold": false
+      },
+      "session_analytics": {
+        "commands_count": false,
+        "most_used_skills": false,
+        "session_duration": false
+      }
+    }
+  }
+}

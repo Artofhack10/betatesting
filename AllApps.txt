@@ -1,0 +1,71 @@
+﻿
+DisplayName                                                             DisplayVersion  Publisher                 
+-----------                                                             --------------  ---------                 
+Application Verifier x64 External Package (DesktopEditions)             10.1.26100.6901 Microsoft                 
+Application Verifier x64 External Package (OnecoreUAP)                  10.1.26100.6901 Microsoft                 
+DiagnosticsHub_CollectionService                                        17.14.36412     Microsoft Corporation     
+Fairlight Audio Accelerator Utility                                     1.0.15          Blackmagic Design         
+Herramientas de corrección de Microsoft Office 2016: español            16.0.4266.1001  Microsoft Corporation     
+Java 8 Update 441 (64-bit)                                              8.0.4410.7      Oracle Corporation        
+Java(TM) SE Development Kit 17.0.12 (64-bit)                            17.0.12.0       Oracle Corporation        
+Maxx Audio Installer (x64)                                              2.7.9434.5      Waves Audio Ltd.          
+Microsoft .NET Host - 8.0.8 (x64)                                       64.32.18380     Microsoft Corporation     
+Microsoft .NET Host FX Resolver - 8.0.8 (x64)                           64.32.18380     Microsoft Corporation     
+Microsoft .NET Runtime - 8.0.8 (x64)                                    64.32.18380     Microsoft Corporation     
+Microsoft Access MUI (English) 2016                                     16.0.4266.1001  Microsoft Corporation     
+Microsoft Access Setup Metadata MUI (English) 2016                      16.0.4266.1001  Microsoft Corporation     
+Microsoft DCF MUI (English) 2016                                        16.0.4266.1001  Microsoft Corporation     
+Microsoft Excel MUI (English) 2016                                      16.0.4266.1001  Microsoft Corporation     
+Microsoft Groove MUI (English) 2016                                     16.0.4266.1001  Microsoft Corporation     
+Microsoft InfoPath MUI (English) 2016                                   16.0.4266.1001  Microsoft Corporation     
+Microsoft Office 32-bit Components 2016                                 16.0.4266.1001  Microsoft Corporation     
+Microsoft Office OSM MUI (English) 2016                                 16.0.4266.1001  Microsoft Corporation     
+Microsoft Office OSM UX MUI (English) 2016                              16.0.4266.1001  Microsoft Corporation     
+Microsoft Office Professional Plus 2016                                 16.0.4266.1001  Microsoft Corporation     
+Microsoft Office Professional Plus 2016                                 16.0.4266.1001  Microsoft Corporation     
+Microsoft Office Proofing (English) 2016                                16.0.4266.1001  Microsoft Corporation     
+Microsoft Office Proofing Tools 2016 - English                          16.0.4266.1001  Microsoft Corporation     
+Microsoft Office Shared 32-bit MUI (English) 2016                       16.0.4266.1001  Microsoft Corporation     
+Microsoft Office Shared MUI (English) 2016                              16.0.4266.1001  Microsoft Corporation     
+Microsoft Office Shared Setup Metadata MUI (English) 2016               16.0.4266.1001  Microsoft Corporation     
+Microsoft OneNote MUI (English) 2016                                    16.0.4266.1001  Microsoft Corporation     
+Microsoft Outlook MUI (English) 2016                                    16.0.4266.1001  Microsoft Corporation     
+Microsoft PowerPoint MUI (English) 2016                                 16.0.4266.1001  Microsoft Corporation     
+Microsoft Publisher MUI (English) 2016                                  16.0.4266.1001  Microsoft Corporation     
+Microsoft Skype for Business MUI (English) 2016                         16.0.4266.1001  Microsoft Corporation     
+Microsoft Update Health Tools                                           5.72.0.0        Microsoft Corporation     
+Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148          9.0.30729.4148  Microsoft Corporation     
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664           12.0.40664      Microsoft Corporation     
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664              12.0.40664      Microsoft Corporation     
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211          14.44.35211     Microsoft Corporation     
+Microsoft Visual C++ 2022 X64 Debug Runtime - 14.44.35211               14.44.35211     Microsoft Corporation     
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211             14.44.35211     Microsoft Corporation     
+Microsoft Visual Studio Installer                                       4.0.2153.56108  Microsoft Corporation     
+Microsoft Windows Desktop Runtime - 8.0.8 (x64)                         64.32.18376     Microsoft Corporation     
+Microsoft Word MUI (English) 2016                                       16.0.4266.1001  Microsoft Corporation     
+MySQL Server 8.0                                                        8.0.40          Oracle Corporation        
+MySQL Shell                                                             8.0.40          Oracle Corporation        
+MySQL Workbench 8.0 CE                                                  8.0.40          Oracle Corporation        
+Node.js                                                                 22.20.0         Node.js Foundation        
+ODM                                                                     2.2.250         Synesis                   
+Outils de vérification linguistique 2016 de Microsoft Office - Français 16.0.4266.1001  Microsoft Corporation     
+Python 3.10.9 Add to Path (64-bit)                                      3.10.9150.0     Python Software Foundation
+Python 3.10.9 Core Interpreter (64-bit)                                 3.10.9150.0     Python Software Foundation
+Python 3.10.9 Development Libraries (64-bit)                            3.10.9150.0     Python Software Foundation
+Python 3.10.9 Documentation (64-bit)                                    3.10.9150.0     Python Software Foundation
+Python 3.10.9 Executables (64-bit)                                      3.10.9150.0     Python Software Foundation
+Python 3.10.9 pip Bootstrap (64-bit)                                    3.10.9150.0     Python Software Foundation
+Python 3.10.9 Standard Library (64-bit)                                 3.10.9150.0     Python Software Foundation
+Python 3.10.9 Tcl/Tk Support (64-bit)                                   3.10.9150.0     Python Software Foundation
+Python 3.10.9 Test Suite (64-bit)                                       3.10.9150.0     Python Software Foundation
+Python 3.10.9 Utility Scripts (64-bit)                                  3.10.9150.0     Python Software Foundation
+Tailscale                                                               1.90.6          Tailscale Inc.            
+Universal CRT Tools x64                                                 10.1.26100.6901 Microsoft Corporation     
+VLC media player                                                        3.0.20          VideoLAN                  
+VS Script Debugging Common                                              17.0.157.0      Microsoft Corporation     
+vs_communityx64msi                                                      17.14.36025     Microsoft Corporation     
+Windows App Certification Kit Native Components                         10.1.26100.6901 Microsoft Corporation     
+Windows SDK DirectX x64 Remote                                          10.1.26100.6901 Microsoft Corporation     
+WinRAR 5.71 (64-bit)                                                    5.71.0          win.rar GmbH              
+
+

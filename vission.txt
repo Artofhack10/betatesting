@@ -1,0 +1,137 @@
+PROJECT VISION — LOCKED (DO NOT DILUTE)
+
+Goal:
+Build a personal JARVIS system that goes beyond normal apps.
+Not for mass users. Not for shortcuts. Built to do what 95% people never attempt.
+
+Core Philosophy:
+- Control first, visuals later.
+- Core logic must stay UI-agnostic forever.
+- CLI, GUI, Voice are only interfaces — never the brain.
+- Every feature must be modular, reversible, and state-aware.
+
+Short-Term (Active Phase):
+- Stable CLI for deep system control.
+- Minimal Power GUI only for testing and visibility.
+- No fake animations, no UI hacks, no shortcuts.
+- Windows remains the OS, JARVIS remains the controller.
+
+Mid-Term (Integration Phase):
+- Always-on background presence.
+- Global hotkeys and system hooks.
+- Window, process, network, file, audio control.
+- User interacts with Windows THROUGH JARVIS, not around it.
+
+Long-Term (IRONMAN MODE — Optional, Advanced):
+- JARVIS becomes the primary shell.
+- Explorer is optional / secondary / disabled if needed.
+- HUD-style workspace replaces traditional desktop.
+- JARVIS acts as command center, not an app.
+- System feels like Iron Man’s interface, not Windows with a skin.
+
+Rules (Non-Negotiable):
+- No core logic inside UI.
+- No UI decisions leaking into skills.
+- No “quick wins” that compromise architecture.
+- Time is allowed. Compromise is not.
+
+Mindset:
+This project is intentionally hard.
+This project is intentionally slow.
+This project is intentionally different.
+
+If it feels like something everyone can build —
+we are doing it wrong.
+
+— JARVIS PROJECT, LOCKED
+
+
+
+🔹 4️⃣ CONTEXT LOCKING (FOCUS MODE)
+
+Problem:
+
+User ek kaam start karta hai
+
+Beech me galat command aa jata hai
+
+Example:
+
+rename 5
+→ new name?
+user: delete 3
+
+
+JARVIS ko bolna chahiye:
+
+“Sir, pehle rename complete kijiye.”
+
+👉 Missing piece: Context priority + lock
+
+Tumhare pending_* ka next evolution.
+
+
+
+## **NEW SKILLS TO ADD RIGHT NOW:**
+
+### **🎯 PRODUCTIVITY SKILLS**
+- **clipboard_manager.py** - Copy/paste history, clipboard sync
+- **quick_notes.py** - Voice to text notes, sticky notes
+- **reminder_system.py** - Set timers, alarms, recurring reminders
+- **todo_manager.py** - Create, manage, prioritize tasks
+- **calendar_quick_add.py** - Fast event creation
+
+### **🌐 WEB & CLOUD**
+- **weather_check.py** - Current weather + forecasts
+- **news_reader.py** - Read top headlines by category
+- **quick_search.py** - Google/Wikipedia searches
+- **download_manager.py** - Manage downloads, resume interrupted
+- **cloud_sync.py** - OneDrive/Dropbox file sync
+
+### **💻 DEVELOPER TOOLS**
+- **git_assistant.py** - Quick git commands, status checks
+- **code_runner.py** - Run Python/SQL snippets
+- **port_checker.py** - Check open ports, kill by port
+- **env_manager.py** - Switch Python environments
+- **log_viewer.py** - Tail logs, filter errors
+
+### **🔧 SYSTEM ENHANCEMENTS**
+- **startup_manager.py** - Control startup programs
+- **service_manager.py** - Start/stop Windows services
+- **registry_quick.py** - Common registry tweaks
+- **backup_scheduler.py** - Automated file backups
+- **disk_cleaner.py** - Clean temp files, browser cache
+
+### **🎮 ENTERTAINMENT**
+- **music_controller.py** - Control Spotify/YouTube Music
+- **movie_finder.py** - Find where to stream movies
+- **game_launcher.py** - Quick game launches
+- **joke_teller.py** - Random jokes, dad jokes
+- **quote_generator.py** - Daily motivational quotes
+
+### **📱 COMMUNICATION**
+- **email_sender.py** - Quick email with voice
+- **contact_finder.py** - Search contacts, quick dial
+- **message_templates.py** - Pre-written message snippets
+- **meeting_scheduler.py** - Quick meeting setup
+
+### **🔍 SMART SEARCH**
+- **file_content_search.py** - Search inside files
+- **image_finder.py** - Find images by type/size
+- **duplicate_finder.py** - Find and remove duplicates
+- **recent_files.py** - Quick access recent documents
+
+### **⚡ QUICK ACTIONS**
+- **text_expander.py** - Type short codes → full text
+- **window_manager.py** - Snap windows, virtual desktops
+- **screenshot_tools.py** - Quick screenshots, annotations
+- **color_picker.py** - Pick colors from screen
+- **password_generator.py** - Strong password creation
+
+### **🤖 AI ENHANCED**
+- **smart_suggestions.py** - Predict next actions
+- **command_history.py** - Learn from usage patterns
+- **auto_corrector.py** - Fix common command mistakes
+- **context_aware.py** - Different responses based on time/app
+
+**PICK 5-6 TO START:** Clipboard manager, weather check, reminder system, quick notes, music controller, screenshot tools
